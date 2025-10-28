@@ -1,2 +1,2 @@
 # HaloCEUserList
-Python script to list users on a Halo CE server
+Python script with tk UI to list users on Halo CE servers whose IP and ports are saved in a list
